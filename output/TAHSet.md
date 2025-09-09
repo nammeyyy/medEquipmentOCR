@@ -35,7 +35,7 @@
 </tr>
 <tr>
 <td>2</td>
-<td>Army's Retractor</td>
+<td>Army's Retracto</td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -211,7 +211,7 @@
 </tr>
 <tr>
 <td>18</td>
-<td>Hัว Suction+Shield</td>
+<td>H้าง Suction+Shield</td>
 <td>4</td>
 <td></td>
 <td></td>
