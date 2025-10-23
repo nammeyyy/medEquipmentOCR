@@ -25,9 +25,9 @@ except Exception:
 
 import matplotlib.pyplot as plt
 
-INPUT_DIR = "./public"
+INPUT_DIR = "./public/pre-processed"
 GT_DIR = "./reference"
-OUT_DIR = "./output"
+OUT_DIR = "./output/afterProcessed"
 LANG_TESS = "tha+eng"
 
 THAI_DIGITS_MAP = str.maketrans("๐๑๒๓๔๕๖๗๘๙", "0123456789")
