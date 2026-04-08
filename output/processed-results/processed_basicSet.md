@@ -1,22 +1,24 @@
 <table>
 <thead>
 <tr>
-<th colspan="2">SET TAH</th>
+<th>ลำดับ</th>
+<th colspan="2">Basic set</th>
 <th></th>
-<th>Supply</th>
+<th colspan="3">Supply</th>
 <th colspan="2">OR</th>
-<th>ารย์เพิ่มเติม</th>
+<th>อุปกรณ์เพิ่มเติม</th>
 <th>จำนวน</th>
-<th>หมายเหตุ</th>
 </tr>
 <tr>
-<th>ลำดับ</th>
+<th></th>
 <th>รายการ</th>
 <th>จำนวน</th>
 <th>ผู้จัดของ</th>
 <th>ผู้รับรอง</th>
-<th>ก่อนใช้</th>
-<th>หลังใช้</th>
+<th>ก้อนไร้</th>
+<th>หลังไร้</th>
+<th></th>
+<th></th>
 <th></th>
 <th></th>
 </tr>
@@ -25,7 +27,9 @@
 <tr>
 <td>1</td>
 <td>Richardson Retractor 19"</td>
-<td>1</td>
+<td>2</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -35,8 +39,10 @@
 </tr>
 <tr>
 <td>2</td>
-<td>Army's Retracto</td>
+<td>Amy's Retracto</td>
 <td>2</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -47,7 +53,9 @@
 <tr>
 <td>3</td>
 <td>Long non tooth forceps</td>
-<td>2</td>
+<td>1</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -57,8 +65,10 @@
 </tr>
 <tr>
 <td>4</td>
-<td>Long tooth forceps</td>
-<td>2</td>
+<td>Needle Holder*</td>
+<td>3</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -68,19 +78,23 @@
 </tr>
 <tr>
 <td>5</td>
-<td>Needle Holder (ค้ามทง)*</td>
-<td>3</td>
+<td>Scalpel Handle No.3</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>*</td>
-<td>ใหญ่,กลาง,เล็ก</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>6</td>
-<td>Scalpel Handle No.3</td>
-<td>1</td>
+<td>Babcock tissue forceps 16 cm</td>
+<td>2</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -90,8 +104,10 @@
 </tr>
 <tr>
 <td>7</td>
-<td>Babcock tissue forceps</td>
-<td>3</td>
+<td>Allis tissue forceps</td>
+<td>4</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -101,8 +117,10 @@
 </tr>
 <tr>
 <td>8</td>
-<td>Allis tissue forceps</td>
-<td>4</td>
+<td>Tooth forceps</td>
+<td>2</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -112,8 +130,10 @@
 </tr>
 <tr>
 <td>9</td>
-<td>Tooth forceps</td>
+<td>Non tooth forceps</td>
 <td>2</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -123,8 +143,10 @@
 </tr>
 <tr>
 <td>10</td>
-<td>Non tooth forceps</td>
-<td>2</td>
+<td>Adson's tooth forceps</td>
+<td>1</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -134,8 +156,10 @@
 </tr>
 <tr>
 <td>11</td>
-<td>Adson's tooth forceps</td>
-<td>1</td>
+<td>Spong holding forceps</td>
+<td>3</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -145,8 +169,10 @@
 </tr>
 <tr>
 <td>12</td>
-<td>Adson's non tooth forceps</td>
-<td>1</td>
+<td>Curved arterial clamp 16 cm</td>
+<td>10</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -156,8 +182,10 @@
 </tr>
 <tr>
 <td>13</td>
-<td>Spong holding forceps</td>
-<td>3</td>
+<td>Straight arterial clamp 16 cm</td>
+<td>2</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -167,8 +195,10 @@
 </tr>
 <tr>
 <td>14</td>
-<td>Curved arterial clamp</td>
-<td>10</td>
+<td>Towel clips*</td>
+<td>6</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -178,8 +208,10 @@
 </tr>
 <tr>
 <td>15</td>
-<td>Straight arterial clamp</td>
+<td>H้าง Suction+Shield</td>
 <td>2</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -189,8 +221,10 @@
 </tr>
 <tr>
 <td>16</td>
-<td>Towel clips 9 cm</td>
-<td>4</td>
+<td>Mayo scissors</td>
+<td>1</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -200,8 +234,10 @@
 </tr>
 <tr>
 <td>17</td>
-<td>Towel clips 13 cm</td>
-<td>3</td>
+<td>Metznerbaum scissors</td>
+<td>1</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -211,8 +247,10 @@
 </tr>
 <tr>
 <td>18</td>
-<td>H้าง Suction+Shield</td>
-<td>4</td>
+<td>Straight scissors *</td>
+<td>1</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -222,8 +260,10 @@
 </tr>
 <tr>
 <td>19</td>
-<td>Mayo scissors</td>
+<td>Right Ankle</td>
 <td>1</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -233,18 +273,7 @@
 </tr>
 <tr>
 <td>20</td>
-<td>Metzenbaum scissors *</td>
-<td>2</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>* ตรง 1 โค้ง 1</td>
-<td></td>
-</tr>
-<tr>
-<td>21</td>
-<td>Straight scissors</td>
+<td>Fire Forceps</td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -252,97 +281,23 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>22</td>
-<td>ถั๋วย*</td>
+<td>21</td>
+<td>ถั่วย*</td>
 <td>3</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>* ถ่ายน้ำยา 1 ถ้าย Scrub 2</td>
-</tr>
-<tr>
-<td>23</td>
-<td>Deaver retractor (เล็ก,กลาง)</td>
-<td>2</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>24</td>
-<td>Straight Kocher clamp</td>
-<td>4</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>25</td>
-<td>Curved Kocher clamp</td>
-<td>4</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>26</td>
-<td>Heaney</td>
-<td>4</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>27</td>
-<td>Right Angle Clamp</td>
-<td>2</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>28</td>
-<td>Tonsil clamp</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>29</td>
-<td>Spatulas</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>30</td>
+</tr><tr>
+<td>22</td>
 <td>สาย suction</td>
 <td>1</td>
 <td></td>
@@ -351,39 +306,14 @@
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
 <td></td>
-<td>รวม</td>
-<td>76</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>ลงชื่อ</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>วัน/เดือน/ปี</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Update 31/07/2568</td>
 <td></td>
 </tr>
 </tbody>
 </table>
+
+รวม 52
+
+ลงชื่อ
+
+วันเดือน/ปี

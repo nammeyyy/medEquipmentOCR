@@ -2,12 +2,12 @@
 <thead>
 <tr>
 <th colspan="2">SET TAH</th>
-<th></th>
-<th>Supply</th>
+<th rowspan="2"></th>
+<th colspan="2">Supply</th>
 <th colspan="2">OR</th>
-<th>ารย์เพิ่มเติม</th>
-<th>จำนวน</th>
-<th>หมายเหตุ</th>
+<th>ารย์เพิ่มสุ</th>
+<th></th>
+<th></th>
 </tr>
 <tr>
 <th>ลำดับ</th>
@@ -17,8 +17,8 @@
 <th>ผู้รับรอง</th>
 <th>ก่อนใช้</th>
 <th>หลังใช้</th>
-<th></th>
-<th></th>
+<th>จำนวน</th>
+<th>หมายเหตุ</th>
 </tr>
 </thead>
 <tbody>
@@ -26,6 +26,8 @@
 <td>1</td>
 <td>Richardson Retractor 19"</td>
 <td>1</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -43,11 +45,15 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>3</td>
 <td>Long non tooth forceps</td>
 <td>2</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -65,22 +71,28 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>5</td>
-<td>Needle Holder (ค้ามทง)*</td>
+<td>Needle Holder (ค้ามทอง)*</td>
 <td>3</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>*</td>
 <td>ใหญ่,กลาง,เล็ก</td>
+<td></td>
 </tr>
 <tr>
 <td>6</td>
 <td>Scalpel Handle No.3</td>
 <td>1</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -98,11 +110,15 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>8</td>
 <td>Allis tissue forceps</td>
 <td>4</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -120,11 +136,15 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>10</td>
 <td>Non tooth forceps</td>
 <td>2</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -142,11 +162,15 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>12</td>
 <td>Adson's non tooth forceps</td>
 <td>1</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -164,11 +188,15 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>14</td>
 <td>Curved arterial clamp</td>
 <td>10</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -186,11 +214,15 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>16</td>
 <td>Towel clips 9 cm</td>
 <td>4</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -208,11 +240,15 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>18</td>
-<td>H้าง Suction+Shield</td>
+<td>Hัว Suction+Shield</td>
 <td>4</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -230,16 +266,20 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>20</td>
-<td>Metzenbaum scissors *</td>
+<td>Metz enbaum scissors *</td>
 <td>2</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>* ตรง 1 โค้ง 1</td>
+<td></td>
+<td></td>
+<td>* ตรง 1 ได้ง 1</td>
 <td></td>
 </tr>
 <tr>
@@ -252,22 +292,28 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>22</td>
-<td>ถั๋วย*</td>
+<td>ถั๊วย*</td>
 <td>3</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>* ถ่ายน้ำยา 1 ถ้าย Scrub 2</td>
+<td></td>
+<td>* ถ่ายน้ำยา | ถ่าย Scrub 2</td>
+<td></td>
 </tr>
 <tr>
 <td>23</td>
 <td>Deaver retractor (เล็ก,กลาง)</td>
 <td>2</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -285,6 +331,8 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>25</td>
@@ -296,11 +344,15 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>26</td>
-<td>Heaney</td>
+<td>Illancry</td>
 <td>4</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -318,11 +370,15 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>28</td>
 <td>Tonsil clamp</td>
 <td>1</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -340,11 +396,15 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>30</td>
-<td>สาย suction</td>
+<td>นาย suetion</td>
 <td>1</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -362,6 +422,8 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -373,10 +435,14 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>วัน/เดือน/ปี</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>

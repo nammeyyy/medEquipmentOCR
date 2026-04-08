@@ -1,0 +1,37 @@
+# Ground Truth Template for: setTAHHandWritten.jpg
+# Fill in the checklist items exactly as in the printed form.
+# Recommended format: "<index>. <item>	<qty>"
+# Example: 1. Richardson Retractor 19"	2
+
+SET TAH                                       
+1. Richardson Retractor 19" 1
+2. Army's Retractor	2
+3. Long non tooth forceps	1
+4. Long tooth forceps	2
+5. Needle Holder(ด้ามทอง)*	3                 
+6. Scalpel Handle No.3	1
+7. Babcock tissue forceps 16 cm	2
+8. Allis tissue forceps	4
+9. Tooth forceps	2
+10. Non tooth forceps	2
+11. Adson's tooth forceps	1
+12. Adson's non tooth forceps	1
+13. Sponge holding forceps	3
+14. Curved arterial clamp 10
+15. Straight arterial clamp	2
+16. Towel clips 9 cm 4
+17. Towel clips 13 cm 3
+18. หัว Suction+Shield	4     
+19. Mayo scissors	1
+20. Metzenbaum scissors * 2                            
+21. Straight scissors	1
+22. ถ้วย*	3                                
+23. Deaver retractor (เล็ก,กลาง) 2
+24. Straight Kocher clamp 4
+25. Curved Kocher clamp 4
+26. Heaney
+27. Right Angle Clamp	2
+28. Tonsil clamp 1
+29. Spatulas 1
+30. สาย suction	1
+รวม: 76

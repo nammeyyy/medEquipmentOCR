@@ -2,12 +2,11 @@
 <thead>
 <tr>
 <th colspan="3">Set TR (Tubal Reection ) (ทำหมั่นหญิง)</th>
-<th></th>
-<th>supply</th>
+<th colspan="2">supply</th>
 <th colspan="2">OR</th>
-<th rowspan="2">อุปกรณ์เพิ่มเติม</th>
-<th rowspan="2">จำนวน</th>
-<th rowspan="2">หมายเหตุ</th>
+<th>อุปกรณ์เพิ่มเติม</th>
+<th>จำนวน</th>
+<th>หมายเหตุ</th>
 </tr>
 <tr>
 <th>ลำดับ</th>
@@ -17,6 +16,9 @@
 <th>ผู้รับรอง</th>
 <th>ก่อนใช้</th>
 <th>หลังใช้</th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
 </thead>
 <tbody>
@@ -34,7 +36,7 @@
 </tr>
 <tr>
 <td>2</td>
-<td>Amy's Retracto</td>
+<td>Amy's Retrator</td>
 <td>2</td>
 <td></td>
 <td></td>

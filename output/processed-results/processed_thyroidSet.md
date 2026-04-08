@@ -1,0 +1,28 @@
+| ลำดับ | Thyroid Set          | Supply | OR     | อุปกรณ์เพิ่มเติม | จำนวน | หมายเหตุ |
+|--------|----------------------|---------|---------|--------------------|----------|-------------|
+| 1      | Army's Rector         | 2       |        |                    |          |             |
+| 2      | Medium Fire forceps    | 1       |        |                    |          |             |
+| 3      | Needle Holder*        | 2       |        |                    |          | *ขาว 10 นิ้ว 16 นิ้ว 1*
+| 4      | Scalpel Handle No.3   | 1       |        |                    |          |             |
+| 5      | Babcock tissue forceps 16 cm | 2     |        |                    |          |             |
+| 6      | Allis tissue forceps   | 2       |        |                    |          |             |
+| 7      | Adson's tooth forceps  | 2       |        |                    |          |             |
+| 8      | Adson's non tooth forceps | 2     |        |                    |          |             |
+| 9      | Curved arterial clamp 16 cm | 6     |        |                    |          |             |
+| 10     | Curved arterial clamp 12 cm | 6     |        |                    |          |             |
+| 11     | Metzenbaum scissors*   | 2       |        |                    |          | *ตรง 1 โค้ง 1*
+| 12     | Straight scissors ปลายแหลม | 1     |        |                    |          |             |
+| 13     | Towel clips 13 cm     | 6       |        |                    |          |             |
+| 14     | Senn Rector           | 2       |        |                    |          |             |
+| 15     | Right Ankle            | 1       |        |                    |          |             |
+| 16     | Re-thyroid            | 1       |        |                    |          |             |
+| 17     | หัว Suction+Shield     | 2       |        |                    |          |             |
+| 18     | ก้อย*                | 2       |        |                    |          | *ก้อย Scrub*
+| 19     | สาย Suction           | 1       |        |                    |          |             |
+| 20     |                      |          |        |                    |          |             |
+
+รวม 44
+ลงชื่อ
+วัน/เดือน/ปี
+
+Update 30/5/2568

@@ -1,0 +1,6 @@
+category,CER,WER,filename
+printed_english,0.0312,0.0514,eng_doc_01.png
+printed_english,0.0489,0.1050,eng_doc_02.png
+printed_thai,0.0945,0.1823,thai_form_01.png
+handwritten_character,0.1876,0.3023,handwriting_sample_01.png
+handwritten_number,0.0401,0.0519,numbers_page_01.png
